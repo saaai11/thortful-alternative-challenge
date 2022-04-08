@@ -1,0 +1,90 @@
+{
+  "cats": [
+    {
+      "id": 1,
+      "name": "Bengal Cat",
+      "image": "bengalcat",
+      "description": "The Bengal cat is a domesticated cat breed created from hybrids of domestic cats, especially the spotted Egyptian Mau, with the Asian leopard cat. ",
+      "origin": "United States"
+    },
+
+    {
+      "id": 2,
+      "name": "British Short Hair",
+      "image": "british_shorthair",
+      "description": "The British Shorthair is the pedigreed version of the traditional British domestic cat, with a distinctively stocky body, dense coat, and broad face.",
+      "origin": "United Kingdom"
+    },
+    {
+      "id": 3,
+      "name": "Maine Coon",
+      "image": "maine_coon",
+      "description": "The Maine Coon is a large domesticated cat breed. It has a distinctive physical appearance and valuable hunting skills.",
+      "origin": "United States"
+    },
+    {
+      "id": 4,
+      "name": "Munchkin",
+      "image": "munchkin",
+      "description": "The Munchkin cat or Sausage cat is a relatively new breed of cat characterized by its very short legs, which are caused by genetic mutation.",
+      "origin": "N/A"
+    },
+    {
+      "id": 5,
+      "name": "Norwegian Forest cat",
+      "image": "norwegian_forest_cat",
+      "description": "The Norwegian Forest cat (Norwegian: Norsk skogkatt and Norsk skaukatt) is a breed of domestic cat ",
+      "origin": "Norway"
+    },
+
+    {
+      "id": 6,
+      "name": "Persian cat",
+      "image": "persian",
+      "description": "The Persian cat is a long-haired breed of cat characterized by its round face and short muzzle.",
+      "origin": "German"
+    },
+    {
+      "id": 7,
+      "name": "Ragdoll",
+      "image": "ragdoll",
+      "description": "The Ragdoll is a cat breed with a color point coat and blue eyes. Its form is large and muscular and its coat is silky soft and semi-longhair. ",
+      "origin": "Riverside"
+    },
+    {
+      "id": 8,
+      "name": "Savannah",
+      "image": "savannah",
+      "description": "The Savannah is a hybrid cat breed. It is a cross between a serval and a domestic cat.",
+      "origin": "N/A"
+    },
+    {
+      "id": 9,
+      "name": "Scottish Fold",
+      "image": "scottish_fold",
+      "description": "The Scottish Fold is a breed of domestic cat with a natural dominant gene mutation that affects cartilage throughout the body",
+      "origin": "United Kingdom"
+    },
+    {
+      "id": 10,
+      "name": "Siamese",
+      "image": "Siamese",
+      "description": "The Siamese cat is one of the first distinctly recognized breeds of Asian cat.",
+      "origin": "Thailand"
+    },
+    {
+      "id": 11,
+      "name": "Siberian",
+      "image": "siberian",
+      "description": "The Siberian is a centuries-old landrace of domestic cat in Russia and recently developed as a formal breed with standards promulgated the world over since the late 1980s.",
+      "origin": "Russia"
+    },
+    {
+      "id": 12,
+      "name": "Sphynx",
+      "image": "sphynx",
+      "description": "The Sphynx cat is a breed of cat known for its lack of fur. ",
+      "origin": "Toronto"
+    }
+  ]
+}

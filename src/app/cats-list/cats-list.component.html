@@ -1,0 +1,25 @@
+<table>
+  <thead class="head">
+    <tr>
+      <th class="head-list">Id</th>
+      <th class="head-list">Name</th>
+      <th class="head-list">Description</th>
+      <th class="head-list">Origin</th>
+      <th class="head-list">Image</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <tr *ngFor="let cat of catsList$ | async">
+      <td>{{ cat.id }}</td>
+      <td>{{ cat.name }}</td>
+      <td>{{ cat.description }}</td>
+      <td>{{ cat.origin }}</td>
+      <td>
+        <img src="./assets/{{ cat.image }}.png" alt="" width="90" height="60" />
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div *ngFor="let cat of catsList$ | async"></div>
